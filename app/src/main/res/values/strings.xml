@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Etech</string>
+    <string name="etech">Etech</string>
+    <string name="find_everything_you_need_in_tech">find everything you need in tech</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">or</string>
+    <string name="log_in">Log In</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+</resources>

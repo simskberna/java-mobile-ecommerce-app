@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/account"
+        android:title="My Account"
+        android:icon="@drawable/accountpp"/>
+    <item android:id="@+id/orders"
+        android:title="Orders"
+        android:icon="@drawable/orders"/>
+    <item android:id="@+id/basket"
+        android:title="Basket"
+        android:icon="@drawable/basket"/>
+    <item android:id="@+id/homeOption"
+        android:title="Home"
+        android:icon="@drawable/homenavicon"/>
+
+</menu>

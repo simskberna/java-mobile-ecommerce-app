@@ -29,7 +29,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ecommerce-mobile-app.git
+git clone https://github.com/your-username/ecommerce-app-java.git
 Configure Firebase:
 
 Create a Firebase project at Firebase Console.

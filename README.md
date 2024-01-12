@@ -3,7 +3,7 @@
 
 
 
-YOU CAN DOWNLOAD .APK FROM THE MAIN BRANCH!
+YOU CAN DOWNLOAD .APK FROM THE MAIN BRANCH! Also you can find a quick review gif below.
 
 
 Welcome to my E-Commerce Mobile Application built with Java and powered by Firebase for seamless database management. This application is designed to provide users with a sleek and efficient platform for all their online shopping needs.

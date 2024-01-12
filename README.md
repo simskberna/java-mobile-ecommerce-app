@@ -1,6 +1,11 @@
 ![ClipWindowsGIF](https://github.com/simskberna/Etech-an-ecommerce-native-app/assets/49639453/91b37b25-39ee-45f9-8332-4aa5ffa22540)
 
 
+
+
+YOU CAN DOWNLOAD .APK FROM THE APK BRANCH ! 
+
+
 Welcome to my E-Commerce Mobile Application built with Java and powered by Firebase for seamless database management. This application is designed to provide users with a sleek and efficient platform for all their online shopping needs.
 Limited to a demo version cannot make real orders :) 
 
@@ -45,3 +50,5 @@ Picasso (for image loading)
 
 
 Happy Shopping! 🛍️📱
+
+

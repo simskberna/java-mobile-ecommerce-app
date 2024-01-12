@@ -51,4 +51,8 @@ Picasso (for image loading)
 
 Happy Shopping! 🛍️📱
 
+quick review the app:
+
+
+![app gif](https://github.com/simskberna/ecommerce-java-app/assets/49639453/c5318623-bb16-439d-8e75-ba67f7c19b4d)
 
